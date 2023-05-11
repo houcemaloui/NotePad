@@ -1,0 +1,11 @@
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.csprojAssemblyReference.cache
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HOUCEM\source\repos\NotePad\NotePad\obj\Debug\NotePad.csproj.CopyComplete
